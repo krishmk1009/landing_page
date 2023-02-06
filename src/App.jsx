@@ -10,6 +10,7 @@ import Pricing from "./components/Pricing";
 import Temp from "./components/Temp";
 import Example from "./components/tempNavbar";
 import TempNav from "./components/tempNavbar";
+import Content2 from "./components/Content2";
 import "./index.css";
 
 function App() {
@@ -17,12 +18,13 @@ function App() {
 
   return (
     <div >
-     
-     <Example />
-    
+
+      <Example />
+
       <Hero />
       <Features />
       <Content />
+      <Content2 />
       <Pricing />
       <Newsletter />
       <Footer />
