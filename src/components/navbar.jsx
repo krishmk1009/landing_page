@@ -11,7 +11,7 @@ const Navbar = () => {
 <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900">
   <div className="container flex flex-wrap items-center justify-between mx-auto">
   <a href="https://flowbite.com/" className="flex items-center">
-      <img src="src/assets/logo.svg" className="h-6 mr-3 sm:h-9" alt="Flowbite Logo" />
+      <img src="src/assets/logo.svg" className="h-6 mr-3 sm:h-9" alt="compass Logo" />
       
   </a>
   <div className="flex md:order-2">
